@@ -19,7 +19,7 @@ const Projectcarddata = [
     },
     {
         imgsrc : p221,
-        title : "TCS NQT",
+        title : "TCS",
         text: "Completing the course on develope soft skill. ",
        
     },
