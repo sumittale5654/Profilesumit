@@ -49,14 +49,15 @@ opacity: 0.8;
 .content .btn{
     margin: 1rem 2rem;
     border-radius: 5px;  
-    border-color: #1BA098;
+    padding: 11px 20px;
+    border-color: white;
     color: #1BA098;
 
 }
 .content .btn:hover{
-    background-color: #1BA098;
-    color: #000;
-    transition: 0.5s;
+    background-color: black;
+    color: white;
+    transition: 0.7s;
 }
 
 .download-button {
@@ -72,7 +73,7 @@ opacity: 0.8;
   }
   
   .download-button:hover {
-    background-color: #1BA098;
-    color: #000;
-    transition: 0.5s;
+    background-color:black;
+    color: white;
+    transition: 0.7s;
   }
